@@ -16,7 +16,7 @@
 ![Facebook Page](https://raw.githubusercontent.com/overlordyu/support_cn/main/Facebook.jpg)
 
 ### Twitter homepage.
-**Overlord_yu** ![Twitter homepage](https://raw.githubusercontent.com/overlordyu/support_cn/main/twitter.jpg)
+**Overlord_yu** ![Twitter Homepage](https://raw.githubusercontent.com/overlordyu/support_cn/main/twitter.jpg)
 
 ### App Related.
 **App Logo** : ![App Logo](https://raw.githubusercontent.com/overlordyu/support_cn/main/appLogo_clear.png)
