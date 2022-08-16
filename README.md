@@ -1,4 +1,4 @@
-# RandomLife App Technical Support
+# RandomLife App Support
 > Welcome to the **RandomLife App**!
 
 ---
