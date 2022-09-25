@@ -29,4 +29,4 @@
 - [x] **Technical Support (Chinese)**: [click to view](https://overlordyu.github.io/support_cn/): https://overlordyu.github.io/support_cn/
 - [x] **Technical Support (English)**: [click to view](https://overlordyu.github.io/support_en/): https://overlordyu.github.io/support_en/
 
-- For `questions and feedback`, please contact:** Email: 18767529430@163.com**
+- For `questions and feedback`, please contact: **Email: 18767529430@163.com** .
