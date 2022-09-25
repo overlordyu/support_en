@@ -25,8 +25,8 @@
 
 ### App other URL links.
 - [x] **Privacy Policy (Chinese)** : [Click to view](https://overlordyu.github.io/privacy-policy_cn/): https://overlordyu.github.io/privacy-policy_cn/
-- [x] **Privacy Policy (English)**: [click to view](https://overlordyu.github.io/privacy-policy_en/): https://overlordyu.github.io/privacy-policy_cn/
-- [x] **Technical Support (Chinese)**: [click to view](https://overlordyu.github.io/support_cn/): https://overlordyu.github.io/privacy-policy_cn/
-- [x] **Technical Support (English)**: [click to view](https://overlordyu.github.io/support_en/): https://overlordyu.github.io/privacy-policy_cn/
+- [x] **Privacy Policy (English)**: [click to view](https://overlordyu.github.io/privacy-policy_en/): https://overlordyu.github.io/privacy-policy_en/
+- [x] **Technical Support (Chinese)**: [click to view](https://overlordyu.github.io/support_cn/): https://overlordyu.github.io/support_cn/
+- [x] **Technical Support (English)**: [click to view](https://overlordyu.github.io/support_en/): https://overlordyu.github.io/support_en/
 
 - For `questions and feedback`, please contact:** Email: 18767529430@163.com**
