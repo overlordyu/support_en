@@ -31,5 +31,3 @@
 
 - For `questions and feedback`, please contact: **Email: 18767529430@163.com** .
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3825233156983105"
-     crossorigin="anonymous"></script>
